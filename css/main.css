@@ -1,5 +1,5 @@
 body {
-  background-image: url(/img/arches.png);
+  background-image: url({{ site.baseurl }}/img/arches.png);
 }
 
 #main {
