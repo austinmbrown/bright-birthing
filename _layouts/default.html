@@ -12,8 +12,24 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+        <!-- Fonts --> 
         <link href='http://fonts.googleapis.com/css?family=Parisienne|Antic+Didone|Balthazar' rel='stylesheet' type='text/css'>
 
+        <link rel="stylesheet" href="/css/flexslider.css" type="text/css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+        <script src="/jquery.flexslider.js"></script>
+
+        <script type="text/javascript" charset="utf-8">
+            $(window).load(function() {
+                $('.flexslider').flexslider({
+                    animation: "slide",
+                    animationLoop: false,
+                    slideshow: false,
+                    smoothHeight: true    
+                });
+            });
+</script>
+        
 
     </head>
     <body>
@@ -22,13 +38,13 @@
           <h1 id="logo">Bright Birthing</h1>
 
           <ul id="nav">
-            <li><a href="{{ site.baseurl }}">Home</a></li>
-            <li><a href="/news">News</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/services">Services</a></li>
-            <li><a href="/laborarts">Labor Arts</a></li>
-            <li><a href="/testimonials">Testimonials</a></li>
-            <li><a href="/resources">Resources</a></li>
+            <a href="{{ site.baseurl }}"><li>Home</li></a>
+            <a href="/news"><li>News</li></a>
+            <a href="/about"><li>About</li></a>
+            <a href="/services"><li>Services</li></a>
+            <a href="/laborarts"><li>Labor Arts</li></a>
+            <a href="/testimonials"><li>Testimonials</li></a>
+            <a href="/resources"><li>Resources</li></a>
           </ul>
 
           <div class="column">
@@ -37,5 +53,6 @@
 
           </div>
         </div>
+
     </body>
 </html>
