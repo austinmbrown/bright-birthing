@@ -21,13 +21,14 @@ h2 {
 }
 
 h3 {
-  font-family: 'Antic Didone';
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2em;
 }
 
 p, li, blockquote {
-  line-height: 22px;
-  font-family: 'Balthazar';
-  font-size: 18px;
+  line-height: 29px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 22px;
 }
 
 a, a:visited {
@@ -55,7 +56,7 @@ a, a:visited {
   display: inline-block;
   padding: 8px;
   list-style: none;
-  margin: 0px;
+  margin: 100px 0 0 0;
   float: left;
 }
 
@@ -80,14 +81,12 @@ a, a:visited {
 
 #headshot {
   width: 240px;
-  border: 1px solid black;
   border-radius: 10px;
   float: right;
   margin-left: 20px;
 }
 
 img {
-  border: 1px solid black;
   border-radius: 10px;
   margin: 0px 0px 20px 20px;
 }
