@@ -14,10 +14,10 @@ body {
 }
 
 h2 {
-  font-family: 'Parisienne', cursive;
-  font-size: 60px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 40px;
   font-weight: normal;
-  margin: 0px 80px;
+  margin: 20px 80px 40px 80px;
 }
 
 h3 {
@@ -96,21 +96,21 @@ img {
 }
 
 .dvd {
-  float:left; 
-  width:140px; 
+  float:left;
+  width:140px;
   margin: auto 10px;
 }
 
-.gr_grid_container { 
-/* customize grid container div here. eg: width: 500px; */ 
-} 
-        
-.gr_grid_book_container { /* customize book cover container div here */ 
-  float: left; 
-  width: 68px; 
-  height: 120px; 
+.gr_grid_container {
+/* customize grid container div here. eg: width: 500px; */
+}
+
+.gr_grid_book_container { /* customize book cover container div here */
+  float: left;
+  width: 68px;
+  height: 120px;
   padding: 4px;
-  overflow: hidden; 
+  overflow: hidden;
 }
 
 .gr_grid_book_container img {
