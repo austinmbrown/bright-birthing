@@ -171,3 +171,11 @@ hr {
 a.flex-next, a.flex-prev {
   line-height: normal;
 }
+
+form > ul {
+  list-style: none;
+}
+
+.hide {
+  display: none;
+}
