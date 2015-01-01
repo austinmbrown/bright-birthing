@@ -1,0 +1,38 @@
+#three-ladies {
+	width: 100%;
+	top: 0;
+	padding-top: 400px;
+	padding-bottom: 40px;
+	margin-bottom: 60px;
+	background: url(/images/brightbirthingheader.jpg) no-repeat center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  @media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  	padding-top: 200px;
+    padding-bottom: 0px;
+  }
+  @media only screen and (max-width: 40em) {
+  	padding-top: 140px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    h1 {
+        margin-bottom: -4px;
+      }
+  }
+  .row {
+    background-color: rgba(255, 255, 255, .75);
+    border-radius: 10px;
+    @media only screen and (max-width: 64em) {
+      border-radius: 0px;
+    }
+  }
+}
+
+.homepage{
+  #contact-cta {
+    margin: 40px auto;
+    text-align: center;
+  }
+}

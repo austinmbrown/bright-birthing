@@ -1,0 +1,28 @@
+.side-nav {
+
+	background-color: $red;
+  border-radius: 8px;
+  margin: 14px auto;
+
+  li {
+  	font-size: 1rem;
+
+  	@media only screen and (max-width: 40em) {
+  		text-align: center;
+  	}
+
+  	a:not(.button), a:not(.button):visited {
+	  	color: white;
+	  }
+
+	  a:not(.button):hover, a:not(.button):focus {
+	  	background: darken($red, 10%);
+	  }
+
+  }
+
+  div {
+  	display: inline-block;
+  }
+
+}

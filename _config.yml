@@ -1,5 +1,10 @@
-name: Bright Birthing
-markdown: redcarpet
-highlighter: true
-gems:
-  - jekyll-sitemap
+# Site settings
+title: Bright Birthing
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Charlottesville's doula agency: individualized care with the support of a village.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://brightbirthing.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

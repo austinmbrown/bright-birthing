@@ -1,0 +1,16 @@
+#contactus {
+  ul {
+  	list-style: none;
+  }
+
+  input, textarea {
+  	font-size: 1.1rem !important;
+  }
+
+  .button {
+  	background-color: $red;
+  	&:hover, &:focus {
+  		background-color: darken($red, 10%);
+  	}
+  }
+}

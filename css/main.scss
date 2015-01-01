@@ -1,0 +1,63 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+$red: #904537;
+$purple: #8950AF;
+$turquoise: #50AF89;
+$purple-trans: rgba(137, 80, 175, .4);
+
+
+body {
+  background-image: url(arches.png);
+}
+
+h2, h3, h4, h5, h6, p, ul, li, a {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a:not(.button), a:not(.button):visited {
+  color: $red;
+}
+
+h1 {
+	font-family: 'Parisienne', cursive;
+	font-size: 9.7rem;
+	color: $red;
+	text-align: center;
+	margin: 20px auto;
+	@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+		font-size: 7rem;
+	}
+	@media only screen and (max-width: 40em) {
+		font-size: 6.3rem;
+		line-height: 6.5rem;
+	}
+}
+
+h2, h3 {
+	font-weight: bold;
+}
+
+p, li, label {
+	font-size: 1.55rem;
+}
+
+.main {
+  margin-bottom: 60px;
+}
+
+.headshot {
+	border: 6px solid $red;
+	border-radius: 50% 50% 50% 50%;
+	margin: 10px;
+	padding: 0px;
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  "nav",
+  "homepage",
+  "contactus"
+;
