@@ -15,7 +15,7 @@ h2, h3, h4, h5, h6, p, ul, li, a {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-a:not(.button), a:not(.button):visited {
+a:not(.button), a:not(.button):visited, a:not(.button):hover {
   color: $red;
 }
 
