@@ -19,6 +19,10 @@ a:not(.button), a:not(.button):visited, a:not(.button):hover {
   color: $red;
 }
 
+p {
+  text-align: justify;
+}
+
 h1 {
 	font-family: 'Parisienne', cursive;
 	font-size: 9.7rem;
@@ -53,7 +57,18 @@ p, li, label {
 	padding: 0px;
 }
 
+#blog {
+  list-style: none;
+  li {
+    margin-bottom: 60px;
+  }
+}
 
+.blog-author-headshot {
+  width: 50px;
+  border-radius: 50% 50% 50% 50%;
+  border: 2px solid $red;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

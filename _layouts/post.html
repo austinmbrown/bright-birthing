@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h2>Blog</h2>
+<div class="row">
+  <div class="large-8 columns">
+    <h3>{{ page.title }}</h3>
+  </div>
+  <div class="large-4 columns">
+    <p><img class="blog-author-headshot" src="/images/headshot-{{page.author-short}}.jpg"> By: {{page.author}}</p>
+  </div>
+</div>
+
+<div class="blog-post">
+  {{ content }}
+</div>
