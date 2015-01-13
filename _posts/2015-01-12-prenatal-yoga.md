@@ -5,6 +5,7 @@ date:   2015-01-12
 author: Stephanie Post
 author-short: stephanie
 image: blog/snowangel.jpg
+type: article
 ---
 
 I have a very clear memory of waddling across the downtown mall, moving as quickly as I could get my big baby belly to move, because I just couldn’t stand to miss prenatal yoga! As I approached the glass doors of the studio I could see that I was already too late. The doors were closed and locked. 

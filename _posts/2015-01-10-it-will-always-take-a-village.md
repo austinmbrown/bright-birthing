@@ -5,6 +5,7 @@ date:   2015-01-10
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/jenni.jpg
+type: article
 ---
 
 Nearly four years ago I made this post on the blog of my former doula group, (Re)Birthing Collective in San Francisco. Over my career as a doula and first 50 births, some things have evolved and my serenity with pregnancy and birth is certainly more authentic now. Some things have not changed, though, which is heartening! Working first in California and now in Virginia, I still believe that building a team is one of the best ways to serve one another in birth, parenting and life in general. Trust is of the utmost value, and I am thrilled to work with Stephanie Post and Hannah Bukowski as a team in addition to the care providers chosen by the families we serve. Enjoy this throw-back post from 2011:

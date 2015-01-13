@@ -13,9 +13,9 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Open Graph data -->
-  <meta property="og:title" content="Bright Birthing" />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="http://brightbirthing.com/" />
+  <meta property="og:title" content="Bright Birthing - {{ page.title }}" />
+  <meta property="og:type" content="{{ page.type }}" />
+  <meta property="og:url" content="http://brightbirthing.com{{ page.url }}" />
   <meta property="og:image" content="http://brightbirthing.com/images/{{ page.image }}" />
   <meta property="og:description" content="Charlottesville's doula agency: individualized care with the support of a village. We provide compassionate and skilled presence in support of peaceful, conscious childbirth and parenting." />
   <meta property="og:site_name" content="Bright Birthing" />
