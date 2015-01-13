@@ -1,14 +1,22 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
 
-    <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/foundation.min.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link href='http://fonts.googleapis.com/css?family=Parisienne|Josefin+Sans:300,400,700' rel='stylesheet' type='text/css'>
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/foundation.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link href='http://fonts.googleapis.com/css?family=Parisienne|Josefin+Sans:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="Bright Birthing" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://brightbirthing.com/" />
+  <meta property="og:image" content="http://brightbirthing.com/images/{{ page.image }}" />
+  <meta property="og:description" content="Charlottesville's doula agency: individualized care with the support of a village. We provide compassionate and skilled presence in support of peaceful, conscious childbirth and parenting." />
+  <meta property="og:site_name" content="Bright Birthing" />
 </head>
