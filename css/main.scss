@@ -79,6 +79,15 @@ p, li, label {
   border: 2px solid $red;
 }
 
+.pricing-table  {
+  .title{
+    background-color: $red;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5rem;
+  }
+
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "nav",
