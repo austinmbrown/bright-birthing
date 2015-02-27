@@ -4,7 +4,7 @@ title:  "Nursing Collaboration and Support for Hospital Births with Doulas"
 date:   2015-02-28
 author: Gwendolyn Roberts
 author-short: gwen
-image: blog/jenni.jpg
+image: blog/gwen_badge.jpg
 type: article
 ---
 
