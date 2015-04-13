@@ -14,7 +14,7 @@ At Bright Birthing we celebrate and honor women throughout the female/feminine l
 
 By tradition, a Blessing Way is a Navaho ritual created to support and empower a new mother during her journey of birthing and motherhood. There are many ways to celebrate a new momma and the beauty of a Blessing Way is it can be molded to fit the needs of any woman. The most important thing is that the woman is being honored, loved, supported, and empowered within a sacred circle of her closest friends and family. This circle is usually all female but, if she desires, it is absolutely appropriate to include important males in the momma’s life such as her partner, father or brother.  
 
-My parents hosted a Blessing Way for me to celebrate my transition into motherhood and bless the passage of my child into this world. It was such a very sweet time for me. Gwen created a beautiful henna mandala on my big baby belly and also decorated the other guests hands and feet. At the end we held hands and my mom lead the group in some sweet songs of blessing. I felt so very loved and honored! I was thrilled that my daughter was coming into the world surrounded by so much love!
+My parents hosted a Blessing Way for me to celebrate my transition into motherhood and bless the passage of my child into this world. It was such a very sweet time for me. Gwen created a beautiful henna mandala on my big baby belly and also decorated the other guests' hands and feet. At the end, we held hands and my mom led the group in some sweet songs of blessing. I felt so very loved and honored! I was thrilled that my daughter was coming into the world surrounded by so much love!
 
 <img class=" right small-12 medium-6 columns" src="/images/blog/blessing_henna.jpg">
 
