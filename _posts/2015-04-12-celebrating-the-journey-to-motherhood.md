@@ -21,3 +21,5 @@ My parents hosted a Blessing Way for me to celebrate my transition into motherho
 Shortly after the birth of my daughter I attended a Blessing Way for a good friend. We were invited to introduce ourselves by acknowledging the women of our heritage. “I am Stephanie Lauren Post, daughter of Jeanne Demory Post, granddaughter of Helen Demory and Shirley Post, mother of Demory Anne Post Bernard.” Speaking these words made me feel incredibly powerful and so very connected to all of the women who have come before me and will come after me. 
 
 Because of these very powerful personal experiences, I strongly support and encourage women to consider such a ceremony. It is an honor to be able to offer this service to our Bright Birthing families. When planning a Blessing Way for the beloved momma-to-be we will sit down with the hostess/host and together plan the most perfect ceremony for her. 
+
+photos by [Terry Rowe](https://m.facebook.com/tarrowe)
