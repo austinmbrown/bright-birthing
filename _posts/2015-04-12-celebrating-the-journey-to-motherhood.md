@@ -4,7 +4,7 @@ title:  "Celebrating the Journey to Motherhood"
 date:   2015-04-12
 author: Stephanie Post
 author-short: stephanie
-image: /images/blog/steph_henna.jpg
+image: blog/steph_henna.jpg
 type: article
 ---
 

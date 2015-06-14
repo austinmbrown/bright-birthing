@@ -4,7 +4,7 @@
 	padding-top: 400px;
 	padding-bottom: 40px;
 	margin-bottom: 60px;
-	background: url(/images/brightbirthingheader.jpg) no-repeat center top;
+	background: url(/images/banner.jpg) no-repeat center 95%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,7 +14,7 @@
     padding-bottom: 0px;
   }
   @media only screen and (max-width: 40em) {
-  	padding-top: 140px;
+  	padding-top: 180px;
     padding-bottom: 0px;
     margin-bottom: 20px;
     h1 {
@@ -22,7 +22,7 @@
       }
   }
   .row {
-    background-color: rgba(255, 255, 255, .75);
+    background-color: rgba(255, 255, 255, .85);
     border-radius: 10px;
     @media only screen and (max-width: 64em) {
       border-radius: 0px;

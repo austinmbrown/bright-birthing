@@ -4,7 +4,7 @@ title:  "Celebrating One Year of Motherhood"
 date:   2015-02-03
 author: Stephanie Post
 author-short: stephanie
-image: /images/blog/steph-birth-team.jpg
+image: blog/steph-birth-team.jpg
 type: article
 ---
 
