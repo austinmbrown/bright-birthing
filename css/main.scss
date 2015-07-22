@@ -88,7 +88,9 @@ p, li, label {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1.5rem;
   }
-
+  .bullet-item {
+    font-size: 1.2rem;
+  }
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
