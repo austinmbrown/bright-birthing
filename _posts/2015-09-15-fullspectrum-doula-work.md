@@ -8,7 +8,7 @@ image: blog/spirit-babies-altar.jpg
 image_height: 640
 image_width: 640
 type: article
-description: "Near the autumnal equinox, recognizing the balance of darkness and light: a thoughtful, contemplative time to gather and remember miscarriage, stillbirth and abortion."
+description: "Open-hearted listening, physical presence and comfort measures can be of benefit to folks during and following any pregnancy and it is in that spirit I was trained to work as a full-spectrum doula."
 ---
 
 In retrospect there were several assumptions inherent in my first doula training. We focused on the physiologic study of pregnancy and birth and learned many ways that doulas could support someone through those transformative processes. Although unspoken, the assumptions were that the pregnancy was wanted and resulted in a live birth - these are not the realities for every pregnancy. 
