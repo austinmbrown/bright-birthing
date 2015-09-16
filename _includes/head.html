@@ -15,10 +15,13 @@
   <link href='http://brightbirthing.com/feed.xml' rel='alternate' type='application/atom+xml'>
 
   <!-- Open Graph data -->
-  <meta property="og:title" content="Bright Birthing - {{ page.title }}" />
+  <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="{{ page.type }}" />
+  <meta property="og:site_name" content="Bright Birthing" />
   <meta property="og:url" content="http://brightbirthing.com{{ page.url }}" />
   <meta property="og:image" content="http://brightbirthing.com/images/{{ page.image }}" />
-  <meta property="og:description" content="Charlottesville's doula agency: individualized care with the support of a village. We provide compassionate and skilled presence in support of peaceful, conscious childbirth and parenting." />
+  <meta property="og:image:height" content="{{ page.image_height }}" />
+  <meta property="og:image:width" content="{{ page.image_width }}" />
+  <meta property="og:description" content="{{ page.description }}" />
   <meta property="og:site_name" content="Bright Birthing" />
 </head>
