@@ -22,3 +22,8 @@ Sufi is 16 months old. Since she was 6 months old she consistently falls asleep 
 My gut says to surrender to sleep disruptions and to trust her body to know when it needs mine, and most of all, to be grateful for the beauty and closeness internal to our breastfeeding bond, especially in these dark hours when it feels like we two are the only souls astir. These wake ups might last many more years. They might not. One day they will stop and I'll miss this passage of our lives together. There is no one size fits all answer, except for maybe: do your best and trust your gut. 
 
 Sleep tight my friends.
+
+Feeling a lot of love for this fleeting existence of ours. Writing to you has helped me to relax. Thank you. 
+
+Good night for now,<br>
+one tired, grateful mama
