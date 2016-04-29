@@ -13,7 +13,7 @@
   	}
 
   	a:not(.button), a:not(.button):visited {
-	  	color: white;
+	  	color: white !important;
 	  }
 
 	  a:not(.button):hover, a:not(.button):focus {
