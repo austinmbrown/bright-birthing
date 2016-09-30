@@ -1,16 +1,16 @@
 ---
+title: The Birth of Sufi Grace
+date: 2015-12-25 00:00:00 Z
 layout: post
-title:  "The Birth of Sufi Grace"
-date:   2015-12-25
 author: Sara Zia
 author-short: sara
 image: blog/sara_birth_altar.jpg
 image_height: 750
 image_width: 1000
 type: article
-description: "It’s 4 am on Christmas day and I can’t sleep. What better time to write Sufi’s birth story?"
+description: It’s 4 am on Christmas day and I can’t sleep. What better time to write
+  Sufi’s birth story?
 ---
-
 
 It’s 4 am on Christmas day and I can’t sleep. What better time to write Sufi’s birth story? After all, she was born on December 7th last year and though that is early in the month of December, I still consider her a Christmas baby.
 

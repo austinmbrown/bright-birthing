@@ -1,7 +1,7 @@
 ---
+title: Introducing Sara Zia
+date: 2015-05-16 00:00:00 Z
 layout: post
-title:  "Introducing Sara Zia"
-date:   2015-05-16
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/sz2.jpg

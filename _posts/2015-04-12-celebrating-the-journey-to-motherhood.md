@@ -1,7 +1,7 @@
 ---
+title: Celebrating the Journey to Motherhood
+date: 2015-04-12 00:00:00 Z
 layout: post
-title:  "Celebrating the Journey to Motherhood"
-date:   2015-04-12
 author: Stephanie Post
 author-short: stephanie
 image: blog/steph_henna.jpg

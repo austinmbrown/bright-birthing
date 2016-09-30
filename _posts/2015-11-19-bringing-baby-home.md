@@ -1,14 +1,15 @@
 ---
+title: Bringing Baby Home
+date: 2015-11-19 00:00:00 Z
 layout: post
-title:  "Bringing Baby Home"
-date:   2015-11-19
 author: Stephanie Post
 author-short: stephanie
 image: blog/Estes_Park.jpg
 image_height: 722
 image_width: 1454
 type: article
-description: "It’s crazy how you can be totally overjoyed and in complete crisis at the same time..."
+description: It’s crazy how you can be totally overjoyed and in complete crisis at
+  the same time...
 ---
 
 Diapers: check. Bottles: check. At least two baby carriers: check. Strollers and blankets and car seats and innumerable other baby paraphernalia - all incredibly adorable: check, check, check! I’ve read books and attended classes. I’ve got my birth plan and my birth team and I’m as prepared for the birth as I can be. I’m even prepared for postpartum because I have good friends who tell me all the things “no one tells you.” Also, I’ve been a pediatric nurse for 10 years so I’m golden! Ha!

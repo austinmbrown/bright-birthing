@@ -1,13 +1,12 @@
 ---
+title: Celebrating One Year of Motherhood
+date: 2015-02-03 00:00:00 Z
 layout: post
-title:  "Celebrating One Year of Motherhood"
-date:   2015-02-03
 author: Stephanie Post
 author-short: stephanie
 image: blog/steph-birth-team.jpg
 type: article
 ---
-
 
 It has been one year since the birth of my precious daughter, Demory Anne. It has been a year filled with joy, frustration, exhaustion, awe, laughter, tears and most of all so much overwhelming love. I have delighted in watching her learn and grow and explore the world around her. 
 

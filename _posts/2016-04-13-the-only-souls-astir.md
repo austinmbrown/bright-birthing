@@ -1,14 +1,15 @@
 ---
+title: The Only Souls Astir
+date: 2016-04-13 00:00:00 Z
 layout: post
-title:  "The Only Souls Astir"
-date:   2016-04-13
 author: Sara Zia
 author-short: sara
 image: blog/sufi_zzz.jpg
 image_height: 797
 image_width: 1200
 type: article
-description: "There are a million answers on the Internet. I've made up my mind about what's right for us."
+description: There are a million answers on the Internet. I've made up my mind about
+  what's right for us.
 ---
 
 It's 3:00am. Sufi woke up at 1:30am and I spent a half hour reading about toddler sleep while she cried in her crib for me, the longest by far that I've ever left her to cry hoping that she'll get down on her own. My alarm is set for 5:00am to get to work and I can't get back to sleep. She's quiet now, sound asleep, and yet I can still hear her crying.

@@ -1,7 +1,7 @@
 ---
+title: Making Space
+date: 2015-07-09 00:00:00 Z
 layout: post
-title:  "Making Space"
-date:   2015-07-09
 author: Gwendolyn Roberts
 author-short: gwen
 image: altar.jpg

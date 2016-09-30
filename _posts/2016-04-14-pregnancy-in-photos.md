@@ -1,14 +1,14 @@
 ---
+title: Pregnancy In Photos
+date: 2016-04-14 00:00:00 Z
 layout: post
-title:  "Pregnancy In Photos"
-date:   2016-04-14
 author: Gwendolyn Roberts
 author-short: gwen
 image: "/blog/pregnancy_slideshow/6 yoga ultrasound.jpg"
 image_height: 682
 image_width: 998
 type: article
-description: "A Pregnancy in Photos"
+description: A Pregnancy in Photos
 ---
 
 A Pregnancy in Photos

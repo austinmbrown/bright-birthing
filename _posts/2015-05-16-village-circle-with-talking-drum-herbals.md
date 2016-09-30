@@ -1,7 +1,7 @@
 ---
+title: Village Circle With Talking Drum Herbals
+date: 2015-05-16 00:00:00 Z
 layout: post
-title:  "Village Circle With Talking Drum Herbals"
-date:   2015-05-16
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/talking-drum-2.jpg

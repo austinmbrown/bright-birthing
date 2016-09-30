@@ -1,14 +1,14 @@
 ---
+title: Matilde Zadie Bright
+date: 2016-06-07 00:00:00 Z
 layout: post
-title:  "Matilde Zadie Bright"
-date:   2016-06-07
 author: Austin Brown
 author-short: austin
 image: blog/gwen_matilde_austin.jpg
 image_height: 669
 image_width: 1000
 type: article
-description: "Matilde Zadie Bright was born at 3:30 am on Monday May 30th."
+description: Matilde Zadie Bright was born at 3:30 am on Monday May 30th.
 ---
 
 Matilde Zadie Bright was born at 3:30 am on Monday May 30th. She weighed 5 pounds and 10 ounces and she was 19 and a quarter inches from head to toe.

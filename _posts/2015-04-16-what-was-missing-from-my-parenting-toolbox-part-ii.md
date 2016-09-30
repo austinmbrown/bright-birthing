@@ -1,7 +1,7 @@
 ---
+title: What Was Missing From My Parenting Toolbox Part II
+date: 2015-04-16 00:00:00 Z
 layout: post
-title:  "What Was Missing From My Parenting Toolbox Part II"
-date:   2015-04-16
 author: Hannah Bukowski
 author-short: hannah
 image: blog/cutest_pic_panama.jpg

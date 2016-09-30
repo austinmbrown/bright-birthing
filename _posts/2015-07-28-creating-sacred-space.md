@@ -1,7 +1,7 @@
 ---
+title: 'Guest Post: Creating Sacred Space'
+date: 2015-07-28 00:00:00 Z
 layout: post
-title:  "Guest Post: Creating Sacred Space"
-date:   2015-07-28
 author: Liz Henke
 author-short: liz
 image: blog/liz_hannah_villagecircle.jpg

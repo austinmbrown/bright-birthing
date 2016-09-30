@@ -1,7 +1,7 @@
 ---
+title: When We Gather
+date: 2015-07-21 00:00:00 Z
 layout: post
-title:  "When We Gather"
-date:   2015-07-21
 author: Sara Zia
 author-short: sara
 image: blog/wendy_sufi.jpeg

@@ -1,7 +1,7 @@
 ---
+title: Placenta Art
+date: 2015-05-01 00:00:00 Z
 layout: post
-title:  "Placenta Art"
-date:   2015-05-01
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/placenta_art_5.jpg

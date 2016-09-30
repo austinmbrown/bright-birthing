@@ -1,7 +1,7 @@
 ---
+title: 'Village Circle Recap: Debbie Wong and ATMAT'
+date: 2015-06-16 00:00:00 Z
 layout: post
-title:  "Village Circle Recap: Debbie Wong and ATMAT"
-date:   2015-06-16
 author: Stephanie Post
 author-short: stephanie
 image: events/village-circle-coloring.jpg

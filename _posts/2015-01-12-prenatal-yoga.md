@@ -1,7 +1,7 @@
 ---
+title: Prenatal Yoga
+date: 2015-01-12 00:00:00 Z
 layout: post
-title:  "Prenatal Yoga"
-date:   2015-01-12
 author: Stephanie Post
 author-short: stephanie
 image: blog/snowangel.jpg

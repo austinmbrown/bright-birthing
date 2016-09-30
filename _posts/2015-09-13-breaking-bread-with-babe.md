@@ -1,7 +1,7 @@
 ---
+title: Breaking Bread with Babe
+date: 2015-09-13 00:00:00 Z
 layout: post
-title:  "Breaking Bread with Babe"
-date:   2015-09-13
 author: Sara Zia
 author-short: sara
 image: blog/sufi_spoon.jpeg

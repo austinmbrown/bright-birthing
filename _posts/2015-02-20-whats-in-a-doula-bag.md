@@ -1,7 +1,7 @@
 ---
+title: What's in a doula bag?
+date: 2015-02-20 00:00:00 Z
 layout: post
-title:  "What's in a doula bag?"
-date:   2015-02-20
 author: Gwen Roberts
 author-short: gwen
 image: blog/inadoulabag.jpg

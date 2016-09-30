@@ -1,7 +1,7 @@
 ---
+title: What Was Missing From My Parenting Toolbox
+date: 2015-01-19 00:00:00 Z
 layout: post
-title:  "What Was Missing From My Parenting Toolbox"
-date:   2015-01-19
 author: Hannah Bukowski
 author-short: hannah
 image: blog/hannahhug.jpg

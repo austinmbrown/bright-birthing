@@ -1,14 +1,15 @@
 ---
+title: Around the fire
+date: 2015-10-25 00:00:00 Z
 layout: post
-title:  "Around the fire"
-date:   2015-10-25
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/around_the_fire.jpg
 image_height: 600
 image_width: 800
 type: article
-description: "As the temperatures drop and the leaves change color, it’s a great time to gather and lean on one another."
+description: As the temperatures drop and the leaves change color, it’s a great time
+  to gather and lean on one another.
 ---
 
 As the temperatures drop and the leaves change color, it’s a great time to gather and lean on one another. For nearly a year we have been holding monthly village circles and we have hit a kind of stride that will sustain us through the winter and into a new year of sitting together, sharing stories, nourishing ourselves and taking wisdom back to our respective families. 

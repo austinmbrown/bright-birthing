@@ -1,7 +1,7 @@
 ---
+title: Nursing Collaboration and Support for Hospital Births with Doulas
+date: 2015-02-28 00:00:00 Z
 layout: post
-title:  "Nursing Collaboration and Support for Hospital Births with Doulas"
-date:   2015-02-28
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/gwen_badge.jpg

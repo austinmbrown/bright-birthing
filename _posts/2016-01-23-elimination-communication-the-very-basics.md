@@ -1,14 +1,16 @@
 ---
+title: Elimination Communication - the VERY basics
+date: 2016-01-23 00:00:00 Z
 layout: post
-title:  "Elimination Communication - the VERY basics"
-date:   2016-01-23
 author: Hannah Bukowski
 author-short: hannah
 image: blog/CERTIFIED-GO-DIAPER-FREE-COACH.png
 image_height: 1050
 image_width: 1050
 type: article
-description: "I discovered Elimination Communication (EC) as part of my own parenting journey and felt strongly that families in our community would be interested in an earth-friendly baby-connecty way to handle their children's elimination needs."
+description: I discovered Elimination Communication (EC) as part of my own parenting
+  journey and felt strongly that families in our community would be interested in
+  an earth-friendly baby-connecty way to handle their children's elimination needs.
 ---
 
 A few months ago, I became a Go Diaper Free Certified Elimination Communication Coach.  I discovered Elimination Communication (EC) as part of my own parenting journey and felt strongly that families in our community would be interested in an earth-friendly baby-connecty way to handle their children's elimination needs...you know, pees and poos.  Since becoming an EC coach, I have welcomed a sweet second boy into our family, so I've been taking my sweet time adjusting to our new family life.  I'm excited to give a short talk about EC at our January 31st  Village Circle gathering and very much looking forward to helping local families start EC-ing with their own sweet littles in the coming months.  For those who might be unfamiliar with EC or just learning, here's a little intro to EC and my personal EC philosophy.  

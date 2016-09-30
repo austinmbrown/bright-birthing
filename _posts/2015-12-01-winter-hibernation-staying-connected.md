@@ -1,14 +1,14 @@
 ---
+title: Winter Hibernation and Staying Connected
+date: 2015-12-01 00:00:00 Z
 layout: post
-title:  "Winter Hibernation and Staying Connected"
-date:   2015-12-01
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/circle.jpg
 image_height: 720
 image_width: 960
 type: article
-description: "Here’s to a cozy, nourishing solstice-time for all of you!"
+description: Here’s to a cozy, nourishing solstice-time for all of you!
 ---
 
 What a lovely final Village Circle for 2015 we had! As the pace of life seems to speed up during the holidays and our need for rest and introspection grows in the final month of the year, we have decided to forego a December gathering and we will pick up again in January. Between now and resuming our monthly events, there are some great ways for you to stay in touch with the doulas of Bright Birthing. 

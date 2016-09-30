@@ -1,14 +1,17 @@
 ---
+title: Inspiration from Heart & Hands
+date: 2015-11-12 00:00:00 Z
 layout: post
-title:  "Inspiration from Heart & Hands"
-date:   2015-11-12
 author: Sara Zia
 author-short: sara
 image: blog/heart_and_hands.jpg
 image_height: 398
 image_width: 318
 type: article
-description: "This book is not only an invaluable learning resource for midwifery education but can also be an excellent and comprehensive source of information relevant for child-bearing women, especially those interested in learning more about the difference between the medical versus midwifery model of care."
+description: This book is not only an invaluable learning resource for midwifery education
+  but can also be an excellent and comprehensive source of information relevant for
+  child-bearing women, especially those interested in learning more about the difference
+  between the medical versus midwifery model of care.
 ---
 
 My babe is finally down for her morning nap and I’ve managed to sink into a corner of the couch with a cup of chamomile tea and my copy of “Heart & Hands: A Midwife’s Guide to Pregnancy and Birth,” by Elizabeth Davis. This book is not only an invaluable learning resource for midwifery education but can also be an excellent and comprehensive source of information relevant for child-bearing women, especially those interested in learning more about the difference between the medical versus midwifery model of care.  I thought I might share a few excerpts that resonated with me from the first chapter:

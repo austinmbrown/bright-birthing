@@ -1,7 +1,7 @@
 ---
+title: Aromatherapy
+date: 2015-03-03 00:00:00 Z
 layout: post
-title:  "Aromatherapy"
-date:   2015-03-03
 author: Gwendolyn Roberts
 author-short: gwen
 image: blog/lavendar.jpg

@@ -1,7 +1,7 @@
 ---
+title: Learning to Bless the Way
+date: 2015-07-19 00:00:00 Z
 layout: post
-title:  "Learning to Bless the Way"
-date:   2015-07-19
 author: Hannah Bukowski
 author-short: hannah
 image: blog/blessingway.jpg
